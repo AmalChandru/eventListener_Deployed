@@ -1,2 +1,2 @@
 # eventListener_Deployed
-[EventListner📝](https://django-event-portal.herokuapp.com/) lives here!!
+[EventListener📝](https://django-event-portal.herokuapp.com/) lives here!!
